@@ -1,5 +1,7 @@
 The Gatsby starter project with [React Bootstrap](https://react-bootstrap.netlify.app/getting-started/introduction/) integration. Comes with a basic Bootstrapped layout so you can get started easily!
 
+<img src="screenshot.png" width="500"/>
+
 Default Gatsby README below.
 
 <hr />
